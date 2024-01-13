@@ -4,7 +4,10 @@
 'Say My Name
 'https://github.com/AlexWheelock/SayMyName.git
 
-Module Module1
+Option Strict On
+Option Explicit On
+
+Module SayMyName
 
     Sub Main()
 
