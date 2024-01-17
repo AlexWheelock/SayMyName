@@ -1,7 +1,7 @@
 ﻿'Alex Wheelock
 'RCET 0265
 'Spring 2024
-'Say My Name
+'Say My Name Again
 'https://github.com/AlexWheelock/SayMyName.git
 
 Option Strict On
